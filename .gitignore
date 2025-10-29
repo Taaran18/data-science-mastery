@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.env
+.venv/
+venv/
+env/
+ENV/
+ipynb_checkpoints/
+*.egg-info/
+*.egg
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# Datasets & Data Files
+data/
+datasets/
+*/Datasets/*
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.gz
+*.tar
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.sav
+
+# Model Files & Checkpoints
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tflite
+*.pb
+*/Models/*
+*/checkpoints/*
+*/Experiments/*
+runs/
+wandb/
+mlruns/
+tensorboard_logs/
+training_curves/
+logs/
+outputs/
+results/
+inference_examples/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# System Files
+Thumbs.db
+desktop.ini
+.DS_Store
+Icon?
+*.lnk
+
+# Cache & Temp
+.cache/
+.tmp/
+__MACOSX/
+*.log
+*.out
+
+# Others
+*.bak
+*.old
+*.orig
+*.rej
+*.swp
+*.swo
